@@ -1,0 +1,7 @@
+C:\Users\fullm\OneDrive\Documents\HICC\Spring 23\C#\SalesReport\bin\Debug\SalesReport.exe.config
+C:\Users\fullm\OneDrive\Documents\HICC\Spring 23\C#\SalesReport\bin\Debug\SalesReport.exe
+C:\Users\fullm\OneDrive\Documents\HICC\Spring 23\C#\SalesReport\bin\Debug\SalesReport.pdb
+C:\Users\fullm\OneDrive\Documents\HICC\Spring 23\C#\SalesReport\obj\Debug\SalesReport.csproj.AssemblyReference.cache
+C:\Users\fullm\OneDrive\Documents\HICC\Spring 23\C#\SalesReport\obj\Debug\SalesReport.csproj.CoreCompileInputs.cache
+C:\Users\fullm\OneDrive\Documents\HICC\Spring 23\C#\SalesReport\obj\Debug\SalesReport.exe
+C:\Users\fullm\OneDrive\Documents\HICC\Spring 23\C#\SalesReport\obj\Debug\SalesReport.pdb
